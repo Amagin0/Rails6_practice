@@ -1,5 +1,6 @@
 {
     "extensions": {
+        "@git.ignoreLimitWarning": true,
         "@json.schemas": []
     },
     "language": {
