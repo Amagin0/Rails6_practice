@@ -1,8 +1,23 @@
 {
+<<<<<<< HEAD
+=======
+    "ace": {
+        "@tabSize": 2
+    },
+>>>>>>> origin/main
     "extensions": {
         "@git.ignoreLimitWarning": true,
         "@json.schemas": []
     },
+<<<<<<< HEAD
+=======
+    "general": {
+        "@stripws": true
+    },
+    "instance": {
+        "@automaticShutdown": "30"
+    },
+>>>>>>> origin/main
     "language": {
         "tern_defs": {
             "json()": {
@@ -32,5 +47,16 @@
     },
     "welcome": {
         "@first": true
+<<<<<<< HEAD
+=======
+    },
+    "workspace": {
+        "@folders": [
+            {
+                "name": "rails-hotel-search-line-bot",
+                "path": "/rails-hotel-search-line-bot"
+            }
+        ]
+>>>>>>> origin/main
     }
 }
